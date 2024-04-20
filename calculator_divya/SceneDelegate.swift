@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  calculator_divya
+//  calculator_divyareddy
 //
 //  Created by Canadore Student on 2023-03-22.
 //
